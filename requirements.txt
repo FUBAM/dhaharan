@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+alembic
+pydantic
+pydantic-settings
+email-validator
+python-jose
+passlib
+python-multipart
